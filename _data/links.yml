@@ -704,10 +704,10 @@
   status: prog
   date: 2016-03-09
 - title: "Predict box office performance"
-  url: https://www.vaultml.com/what-we-do.html
+  url: https://news.sky.com/story/warner-bros-to-use-artificial-intelligence-to-predict-box-office-hits-11904448
   cat: pro
   status: prog
-  date: 
+  date: 2020-01-09
 - title: "Predict fashion trends"
   url: https://www.economist.com/news/business/21725599-technology-may-be-disrupting-peculiar-business-can-data-predict-fashion-trends
   cat: pro
@@ -4332,3 +4332,53 @@
   cat: ind
   status: does
   date: 2020-01-17
+- title: "Detect low glucose levels without a fingerpick test"
+  url: https://www.newswise.com/articles/artificial-intelligence-ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test
+  cat: med
+  status: does
+  date: 2020-01-13
+- title: "Plan and operate new cycle routes"
+  url: https://www.intelligenttransport.com/transport-news/94780/tfl-tests-ai-technology-to-plan-and-operate-new-cycle-routes-in-london/
+  cat: tra
+  status: near
+  date: 2020-01-16
+- title: "Spot breast cancer from X-ray images"
+  url: https://www.imperial.ac.uk/news/194506/artificial-intelligence-could-help-spot-breast/
+  cat: med
+  status: does
+  date: 2020-01-01
+- title: "Create new drugs"
+  url: https://www.bbc.co.uk/news/technology-51315462
+  cat: sci
+  status: does
+  date: 2020-01-30
+- title: "Detect harassment in emails"
+  url: https://www.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
+  cat: pro
+  status: does
+  date: 2020-01-03
+- title: "Predict when military aircraft will need repairs"
+  url: https://www.c4isrnet.com/artificial-intelligence/2020/01/15/a-new-artificial-intelligence-contract-to-keep-planes-flying/
+  cat: tra
+  status: does
+  date: 2020-01-15
+- title: "Reduce the dose of gadolinium agents required for MRIs"
+  url: https://www.itnonline.com/article/artificial-intelligence-processes-provide-solutions-gadolinium-retention-concerns
+  cat: med
+  status: near
+  date: 2020-01-30
+- title: "Sail a container ship"
+  url: https://seanews.co.uk/features/artificial-intelligence-and-the-era-of-autonomous-shipping/
+  cat: tra
+  status: near
+  date: 2020-01-23
+- title: "Detect computer glitches"
+  url: https://observer.com/2020/01/anodot-artificial-intelligence-online-glitches/
+  cat: com
+  status: does
+  date: 2020-01-26
+- title: "Shorten hospital waiting times"
+  url: https://www.independent.co.uk/health_and_wellbeing/artificial-intelligence-hospital-waiting-times-nhs-ai-winter-a9300161.html
+  cat: med
+  status: does
+  date: 2020-01-27
