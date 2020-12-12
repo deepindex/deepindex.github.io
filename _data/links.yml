@@ -4382,3 +4382,154 @@
   cat: med
   status: does
   date: 2020-01-27
+- title: "Edit outdated Wikipedia articles"
+  url: https://www.itpro.co.uk/technology/artificial-intelligence-ai/354766/mit-develops-ai-tech-to-edit-outdated-wikipedia
+  cat: pro
+  status: near
+  date: 2020-02-13
+- title: "Detect potholes"
+  url: https://www.bbc.co.uk/news/uk-england-lancashire-51356855
+  cat: gov
+  status: does
+  date: 2020-02-03
+- title: "Identify potential treatments for Covid-19"
+  url: https://www.vox.com/recode/2020/2/7/21125959/artificial-intelligence-coronavirus-benevolent-ai-treatment
+  cat: sci
+  status: does
+  date: 2020-02-07
+- title: "Play the Dungeon Master in D&D"
+  url: https://www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/
+  cat: gam
+  status: near
+  date: 2020-02-28
+- title: "Advise football clubs on transfers"
+  url: https://www.skysports.com/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football
+  cat: pro
+  status: does
+  date: 2020-02-13
+- title: "Instantly and accurately measure blood flow"
+  url: https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2020/february/ai-helps-scan-heart-disease-patients-to-predict-heart-attacks
+  cat: med
+  status: does
+  date: 2020-02-17
+- title: "Colourise black & white videos"
+  url: https://www.thesun.co.uk/tech/11036007/1911-new-york-city-footage-ai-enhanced/
+  cat: vis
+  status: does
+  date: 2020-02-25
+- title: "Identify personalised brain networks in children"
+  url: https://www.technologynetworks.com/neuroscience/news/artificial-intelligence-ai-identifies-personalized-brain-networks-in-children-331156
+  cat: med
+  status: does
+  date: 2020-02-23
+- title: "Find news ways to make scratch-resistant glass"
+  url: https://www.businesswire.com/news/home/20200203005696/en/AGC-and-Citrine-Informatics-Collaborate-to-Develop-New-Glass-Technology-Using-AI
+  cat: sci
+  status: near
+  date: 2020-02-03
+- title: "Harmonise with other vocalists"
+  url: https://www.thefader.com/2019/05/21/holly-herndon-proto-ai-spawn-interview
+  cat: cre
+  status: does
+  date: 2019-05-21
+- title: "Scan doctors' notes to distinguish types of back pain"
+  url: https://www.sciencedaily.com/releases/2020/02/200228102221.htm
+  cat: med
+  status: near
+  date: 2020-02-28
+- title: "Write a song in the style of Travis Scott"
+  url: https://www.musicbusinessworldwide.com/artificial-intelligence-made-a-song-in-the-style-of-travis-scott-it-sounds-unnervingly-like-travis-scott/
+  cat: cre
+  status: does
+  date: 2020-02-16
+- title: "Spot when correlation does mean causation"
+  url: https://www.eurekalert.org/pub_releases/2020-02/b-aic020320.php
+  cat: sci
+  status: near
+  date: 2020-02-05
+- title: "Predict stock market crashes"
+  url: https://www.prnewswire.com/news-releases/vantagepoint-predicts-market-meltdown-almost-a-week-in-advance-using-artificial-intelligence-301013190.html
+  cat: fin
+  status: near
+  date: 2020-02-28
+- title: "Improve sleep disorder treatments"
+  url: https://healthitanalytics.com/news/artificial-intelligence-may-boost-sleep-disorder-treatment-diagnosis
+  cat: med
+  status: near
+  date: 2020-03-02
+- title: "Create personalised makeup recommendations"
+  url: https://www.businesswire.com/news/home/20200325005404/en/Perfect-Corp.%E2%80%99s-YouCam-AI-Skin-Tech-Is-Honored-with-the-2020-Artificial-Intelligence-Excellence-Award-for-Outstanding-Innovation
+  cat: hom
+  status: does
+  date: 2020-03-25
+- title: "Identify high-risk Covid-19 patients"
+  url: https://healthitanalytics.com/news/artificial-intelligence-identifies-high-risk-covid-19-patients
+  cat: med
+  status: does
+  date: 2020-03-16
+- title: "Help diagnose skin diseases"
+  url: https://www.eurekalert.org/pub_releases/2020-03/e-nai032420.php
+  cat: med
+  status: does
+  date: 2020-03-31
+- title: "Improve processes for accounts payable"
+  url: https://aithority.com/machine-learning/tipalti-introduces-tipalti-pi-artificial-intelligence-for-accounts-payable/
+  cat: fin
+  status: does
+  date: 2020-03-31
+- title: "Automate Covid-19 testing"
+  url: https://www.computerweekly.com/news/252480445/Coronavirus-Spain-to-use-Artificial-intelligence-to-automate-testing
+  cat: med
+  status: does
+  date: 2020-03-23
+- title: "Check blood for signs of lung cancer"
+  url: https://www.theguardian.com/society/2020/mar/25/ai-program-could-check-blood-for-signs-of-lung-cancer
+  cat: med
+  status: near
+  date: 2020-03-25
+- title: "Detect Covid-19 from your voice"
+  url: https://uk.reuters.com/article/us-health-coronavirus-israel-study/israeli-defense-ministry-launches-covid-19-voice-test-study-idUKKBN21B2YV
+  cat: med
+  status: near
+  date: 2020-03-24
+- title: "Review financial documents"
+  url: https://sifted.eu/articles/ai-fintech-eigen/
+  cat: fin
+  status: does
+  date: 2020-03-13
+- title: "Predict which Covid-19 patients will develop respiratory disease"
+  url: https://www.sciencedaily.com/releases/2020/03/200330152135.htm
+  cat: med
+  status: does
+  date: 2020-03-30
+- title: "Stop robots bumping into humans"
+  url: https://www.etftrends.com/leveraged-inverse-channel/googles-latest-ai-tech-helps-robots-from-bumping-into-humans/
+  cat: rob
+  status: near
+  date: 2020-03-26
+- title: "Turn your thoughts into sentences"
+  url: https://www.newscientist.com/article/2238946-mind-reading-ai-turns-thoughts-into-words-using-a-brain-implant/
+  cat: oth
+  status: near
+  date: 2020-03-30
+- title: "Run a central bank"
+  url: https://voxeu.org/article/artificial-intelligence-central-banker
+  cat: fin
+  status: near
+  date: 2020-03-06
+- title: "Find a vaccine for Covid-19"
+  url: https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/
+  cat: sci
+  status: near
+  date: 2020-03-28
+- title: "Monitor opium poppy cultivation"
+  url: https://www.cranfield.ac.uk/press/news-2020/artificial-intelligence-could-help-with-illicit-crop-monitoring
+  cat: gov
+  status: near
+  date: 2020-03-10
+- title: "Spot disease outbreaks faster"
+  url: https://www.cnbc.com/2020/03/03/bluedot-used-artificial-intelligence-to-predict-coronavirus-spread.html
+  cat: sci
+  status: does
+  date: 2020-03-03
+
