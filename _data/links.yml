@@ -4602,3 +4602,88 @@
   cat: spe
   status: near
   date: 2020-04-05
+- title: "Pick stories for news sites"
+  url: https://www.theverge.com/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements
+  cat: pro
+  status: does
+  date: 2020-05-30
+- title: "Distinguish brain lesions in CT scans"
+  url: https://aidaily.co.uk/articles/ai-can-now-identify-brain-injuries
+  cat: med
+  status: does
+  date: 2020-05-16
+- title: "Help with early detection of glaucoma"
+  url: https://www.healtheuropa.eu/discover-how-ai-can-help-with-early-detection-of-glaucoma/99771/
+  cat: med
+  status: does
+  date: 2020-05-04
+- title: "Mine asteroids for riches"
+  url: https://aidaily.co.uk/articles/artificial-intelligence-and-space-mining-the-gateway-to-infinite-riches
+  cat: rob
+  status: near
+  date: 2020-05-11
+- title: "Cope with how Covid-19 has changed the world"
+  url: https://www.zdnet.com/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/
+  cat: oth
+  status: near
+  date: 2020-05-14
+- title: "Enforce Covid-19 distancing"
+  url: https://aidaily.co.uk/articles/the-robot-dog-that-is-enforcing-social-distancing
+  cat: rob
+  status: does
+  date: 2020-05-15
+- title: "Automate Formula One race decisions"
+  url: https://aidaily.co.uk/articles/how-ai-could-change-formula-one
+  cat: pro
+  status: near
+  date: 2020-05-08
+- title: "Recreate singers' voices to your lyrics"
+  url: https://aidaily.co.uk/articles/ai-can-recreate-singers-voices-to-your-lyrics
+  cat: spe
+  status: near
+  date: 2020-05-02
+- title: "Improve solar inverters"
+  url: https://www.pv-magazine.com/2020/05/07/huawei-to-ramp-up-artificial-intelligence-to-improve-solar-inverters/
+  cat: ind
+  status: near
+  date: 2020-05-07
+- title: "Create a new AC/DC song"
+  url: https://www.nme.com/news/music/man-creates-ac-dc-song-using-artificial-intelligence-2670117
+  cat: cre
+  status: does
+  date: 2020-05-16
+- title: "Identify consumer products in photos"
+  url: https://www.theverge.com/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet
+  cat: vis
+  status: near
+  date: 2020-05-19
+- title: "Track active transport in cities"
+  url: https://www.traffictechnologytoday.com/news/data/covid-19-ai-to-support-uk-government-on-250m-active-travel-initiative.html
+  cat: tra
+  status: does
+  date: 2020-05-27
+- title: "Create more lifelike videogame characters"
+  url: https://aidaily.co.uk/articles/ai-develops-more-lifelike-game-characters
+  cat: gam
+  status: near
+  date: 2020-05-30
+- title: "Predict age-related macular degeneration"
+  url: https://www.analyticsinsight.net/deepminds-ai-can-predict-progression-amd-eye-condition/
+  cat: med
+  status: near
+  date: 2020-05-20
+- title: "Spread misinformation on the internet"
+  url: https://www.ft.com/content/55a39e92-8357-11ea-b872-8db45d5f6714
+  cat: sec
+  status: does
+  date: 2020-05-10
+- title: "Process auto damage insurance claims"
+  url: https://www.insurancejournal.com/news/international/2020/05/11/568090.htm
+  cat: pro
+  status: does
+  date: 2020-05-11
+- title: "Curate the Bucharest Biennale"
+  url: https://www.theartnewspaper.com/news/the-tenth-bucharest-biennale-to-be-curated-by-an-ai-programme-called-jarvis
+  cat: pro
+  status: near
+  date: 2020-05-27
