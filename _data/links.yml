@@ -2084,10 +2084,10 @@
   status: prog
   date: 2017-07-10
 - title: "Detect child abuse images"
-  url: http://www.telegraph.co.uk/technology/2017/12/18/artificial-intelligence-will-detect-child-abuse-images-save/  
+  url: https://artificialintelligence-news.com/2020/07/31/ai-tool-detect-child-abuse-images-accuracy/
   cat: sec
-  status: prog
-  date: 2017-12-18
+  status: does
+  date: 2020-07-31
 - title: "Help run a nuclear submarine"
   url: https://sputniknews.com/asia/201802051061362280-china-ai-subs/
   cat: sec
@@ -4340,7 +4340,7 @@
 - title: "Plan and operate new cycle routes"
   url: https://www.intelligenttransport.com/transport-news/94780/tfl-tests-ai-technology-to-plan-and-operate-new-cycle-routes-in-london/
   cat: tra
-  status: near
+  status: prog
   date: 2020-01-16
 - title: "Spot breast cancer from X-ray images"
   url: https://www.imperial.ac.uk/news/194506/artificial-intelligence-could-help-spot-breast/
@@ -4365,12 +4365,12 @@
 - title: "Reduce the dose of gadolinium agents required for MRIs"
   url: https://www.itnonline.com/article/artificial-intelligence-processes-provide-solutions-gadolinium-retention-concerns
   cat: med
-  status: near
+  status: prog
   date: 2020-01-30
 - title: "Sail a container ship"
   url: https://seanews.co.uk/features/artificial-intelligence-and-the-era-of-autonomous-shipping/
   cat: tra
-  status: near
+  status: prog
   date: 2020-01-23
 - title: "Detect computer glitches"
   url: https://observer.com/2020/01/anodot-artificial-intelligence-online-glitches/
@@ -4385,7 +4385,7 @@
 - title: "Edit outdated Wikipedia articles"
   url: https://www.itpro.co.uk/technology/artificial-intelligence-ai/354766/mit-develops-ai-tech-to-edit-outdated-wikipedia
   cat: pro
-  status: near
+  status: prog
   date: 2020-02-13
 - title: "Detect potholes"
   url: https://www.bbc.co.uk/news/uk-england-lancashire-51356855
@@ -4400,7 +4400,7 @@
 - title: "Play the Dungeon Master in D&D"
   url: https://www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/
   cat: gam
-  status: near
+  status: prog
   date: 2020-02-28
 - title: "Advise football clubs on transfers"
   url: https://www.skysports.com/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football
@@ -4425,7 +4425,7 @@
 - title: "Find news ways to make scratch-resistant glass"
   url: https://www.businesswire.com/news/home/20200203005696/en/AGC-and-Citrine-Informatics-Collaborate-to-Develop-New-Glass-Technology-Using-AI
   cat: sci
-  status: near
+  status: prog
   date: 2020-02-03
 - title: "Harmonise with other vocalists"
   url: https://www.thefader.com/2019/05/21/holly-herndon-proto-ai-spawn-interview
@@ -4435,7 +4435,7 @@
 - title: "Scan doctors' notes to distinguish types of back pain"
   url: https://www.sciencedaily.com/releases/2020/02/200228102221.htm
   cat: med
-  status: near
+  status: prog
   date: 2020-02-28
 - title: "Write a song in the style of Travis Scott"
   url: https://www.musicbusinessworldwide.com/artificial-intelligence-made-a-song-in-the-style-of-travis-scott-it-sounds-unnervingly-like-travis-scott/
@@ -4445,17 +4445,17 @@
 - title: "Spot when correlation does mean causation"
   url: https://www.eurekalert.org/pub_releases/2020-02/b-aic020320.php
   cat: sci
-  status: near
+  status: prog
   date: 2020-02-05
 - title: "Predict stock market crashes"
   url: https://www.prnewswire.com/news-releases/vantagepoint-predicts-market-meltdown-almost-a-week-in-advance-using-artificial-intelligence-301013190.html
   cat: fin
-  status: near
+  status: prog
   date: 2020-02-28
 - title: "Improve sleep disorder treatments"
   url: https://healthitanalytics.com/news/artificial-intelligence-may-boost-sleep-disorder-treatment-diagnosis
   cat: med
-  status: near
+  status: prog
   date: 2020-03-02
 - title: "Create personalised makeup recommendations"
   url: https://www.businesswire.com/news/home/20200325005404/en/Perfect-Corp.%E2%80%99s-YouCam-AI-Skin-Tech-Is-Honored-with-the-2020-Artificial-Intelligence-Excellence-Award-for-Outstanding-Innovation
@@ -4485,12 +4485,12 @@
 - title: "Check blood for signs of lung cancer"
   url: https://www.theguardian.com/society/2020/mar/25/ai-program-could-check-blood-for-signs-of-lung-cancer
   cat: med
-  status: near
+  status: prog
   date: 2020-03-25
 - title: "Detect Covid-19 from your voice"
   url: https://uk.reuters.com/article/us-health-coronavirus-israel-study/israeli-defense-ministry-launches-covid-19-voice-test-study-idUKKBN21B2YV
   cat: med
-  status: near
+  status: prog
   date: 2020-03-24
 - title: "Review financial documents"
   url: https://sifted.eu/articles/ai-fintech-eigen/
@@ -4505,27 +4505,27 @@
 - title: "Stop robots bumping into humans"
   url: https://www.etftrends.com/leveraged-inverse-channel/googles-latest-ai-tech-helps-robots-from-bumping-into-humans/
   cat: rob
-  status: near
+  status: prog
   date: 2020-03-26
 - title: "Turn your thoughts into sentences"
   url: https://www.newscientist.com/article/2238946-mind-reading-ai-turns-thoughts-into-words-using-a-brain-implant/
   cat: oth
-  status: near
+  status: prog
   date: 2020-03-30
 - title: "Run a central bank"
   url: https://voxeu.org/article/artificial-intelligence-central-banker
   cat: fin
-  status: near
+  status: prog
   date: 2020-03-06
 - title: "Find a vaccine for Covid-19"
   url: https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/
   cat: sci
-  status: near
+  status: prog
   date: 2020-03-28
 - title: "Monitor opium poppy cultivation"
   url: https://www.cranfield.ac.uk/press/news-2020/artificial-intelligence-could-help-with-illicit-crop-monitoring
   cat: gov
-  status: near
+  status: prog
   date: 2020-03-10
 - title: "Spot disease outbreaks faster"
   url: https://www.cnbc.com/2020/03/03/bluedot-used-artificial-intelligence-to-predict-coronavirus-spread.html
@@ -4535,7 +4535,7 @@
 - title: "Help diagnose ADHD in adults"
   url: https://www.yorkshirepost.co.uk/health/artificial-intelligence-advance-adhd-diagnosis-2547301
   cat: med
-  status: near
+  status: prog
   date: 2020-04-27
 - title: "Find the best drug combinations to treat Covid-19"
   url: https://www.futurity.org/identif-ai-artificial-intelligence-drug-combination-2351192-2/
@@ -4545,12 +4545,12 @@
 - title: "Identify brain mutations in glioma tumours"
   url: https://www.healtheuropa.eu/brain-cancer-patients-could-avoid-biopsies-thanks-to-artificial-intelligence/99517/
   cat: med
-  status: near
+  status: prog
   date: 2020-04-23
 - title: "Enter a song contest"
   url: https://www.sciencemag.org/news/2020/04/artificial-intelligence-takes-song-composing-duties-eurovision-inspired-contest
   cat: cre
-  status: near
+  status: prog
   date: 2020-04-24
 - title: "Track how people are feeling about Covid-19"
   url: https://www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/
@@ -4567,15 +4567,15 @@
   cat: cre
   status: does
   date: 2020-04-30
-- title: "Be legally recognised as an inventor"
+- title: "Be awarded a patent"
   url: https://www.theverge.com/2020/4/29/21241251/artificial-intelligence-inventor-united-states-patent-trademark-office-intellectual-property
   cat: oth
-  status: near
+  status: prog
   date: 2020-04-29
 - title: "Avoid over-confident predictions"
   url: https://www.defenseone.com/technology/2020/04/artificial-intelligence-outperforms-human-intel-analysts-one-key-area/165022/
   cat: oth
-  status: near
+  status: prog
   date: 2020-04-29
 - title: "Help stave off feelings of loneliness"
   url: https://www.raconteur.net/technology/artificial-intelligence/ai-loneliness-mitsuku/
@@ -4595,12 +4595,12 @@
 - title: "Scan you when you're on the toilet"
   url: https://www.independent.co.uk/life-style/gadgets-and-tech/news/smart-toilet-camera-artificial-intelligence-cancer-disease-ai-anal-print-health-a9450901.html
   cat: med
-  status: near
+  status: prog
   date: 2020-04-06
 - title: "Mediate difficult conversations"
   url: https://www.unite.ai/new-research-shows-how-ai-can-act-as-mediators/
   cat: spe
-  status: near
+  status: prog
   date: 2020-04-05
 - title: "Pick stories for news sites"
   url: https://www.theverge.com/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements
@@ -4620,12 +4620,12 @@
 - title: "Mine asteroids for riches"
   url: https://aidaily.co.uk/articles/artificial-intelligence-and-space-mining-the-gateway-to-infinite-riches
   cat: rob
-  status: near
+  status: prog
   date: 2020-05-11
 - title: "Cope with how Covid-19 has changed the world"
   url: https://www.zdnet.com/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/
   cat: oth
-  status: near
+  status: prog
   date: 2020-05-14
 - title: "Enforce Covid-19 distancing"
   url: https://aidaily.co.uk/articles/the-robot-dog-that-is-enforcing-social-distancing
@@ -4635,17 +4635,17 @@
 - title: "Automate Formula One race decisions"
   url: https://aidaily.co.uk/articles/how-ai-could-change-formula-one
   cat: pro
-  status: near
+  status: prog
   date: 2020-05-08
 - title: "Recreate singers' voices to your lyrics"
   url: https://aidaily.co.uk/articles/ai-can-recreate-singers-voices-to-your-lyrics
   cat: spe
-  status: near
+  status: prog
   date: 2020-05-02
 - title: "Improve solar inverters"
   url: https://www.pv-magazine.com/2020/05/07/huawei-to-ramp-up-artificial-intelligence-to-improve-solar-inverters/
   cat: ind
-  status: near
+  status: prog
   date: 2020-05-07
 - title: "Write a song in the style of AC/DC"
   url: https://www.nme.com/news/music/man-creates-ac-dc-song-using-artificial-intelligence-2670117
@@ -4655,7 +4655,7 @@
 - title: "Identify consumer products in photos"
   url: https://www.theverge.com/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet
   cat: vis
-  status: near
+  status: prog
   date: 2020-05-19
 - title: "Track active transport in cities"
   url: https://www.traffictechnologytoday.com/news/data/covid-19-ai-to-support-uk-government-on-250m-active-travel-initiative.html
@@ -4665,12 +4665,12 @@
 - title: "Create more lifelike videogame characters"
   url: https://aidaily.co.uk/articles/ai-develops-more-lifelike-game-characters
   cat: gam
-  status: near
+  status: prog
   date: 2020-05-30
 - title: "Predict age-related macular degeneration"
   url: https://www.analyticsinsight.net/deepminds-ai-can-predict-progression-amd-eye-condition/
   cat: med
-  status: near
+  status: prog
   date: 2020-05-20
 - title: "Spread misinformation on the internet"
   url: https://www.ft.com/content/55a39e92-8357-11ea-b872-8db45d5f6714
@@ -4685,12 +4685,12 @@
 - title: "Curate the Bucharest Biennale"
   url: https://www.theartnewspaper.com/news/the-tenth-bucharest-biennale-to-be-curated-by-an-ai-programme-called-jarvis
   cat: pro
-  status: near
+  status: prog
   date: 2020-05-27
 - title: "Tell the members of Little Mix apart"
   url: https://www.theguardian.com/technology/2020/jun/09/microsofts-robot-journalist-confused-by-mixed-race-little-mix-singers
   cat: vis
-  status: near
+  status: prog
   date: 2020-06-09
 - title: "Solve appointment backlogs due to Covid-19"
   url: https://digit.fyi/nhs-to-use-artificial-intelligence-to-solve-appointment-backlog/
@@ -4710,12 +4710,12 @@
 - title: "Pilot an F-35 fighter jet in a dogfight"
   url: https://www.militaryaerospace.com/computers/article/14178610/artificial-intelligence-ai-jet-fighter-unmanned
   cat: tra
-  status: near
+  status: prog
   date: 2020-06-29
 - title: "Improve the accuracy of eye tests"
   url: https://www.sciencemag.org/news/2020/06/eye-robot-artificial-intelligence-dramatically-improves-accuracy-classic-eye-exam
   cat: med
-  status: near
+  status: prog
   date: 2020-06-03
 - title: "Reduce delays at airports"
   url: https://www.internationalairportreview.com/article/114026/artificial-intelligence-heathrow-airport/
@@ -4745,12 +4745,12 @@
 - title: "Analyse opinions through brain activity"
   url: https://www.unite.ai/artificial-intelligence-used-to-analyze-opinions-through-brain-activity/
   cat: oth
-  status: near
+  status: prog
   date: 2020-06-25
 - title: "Manage power company control rooms"
   url: https://www.globenewswire.com/news-release/2020/06/09/2045868/0/en/Radix-Develops-Artificial-Intelligence-Tool-to-Improve-Control-Room-Management-and-Operations-for-ISA-CTEEP.html
   cat: ind
-  status: near
+  status: prog
   date: 2020-06-09
 - title: "Support group discussions in primary schools"
   url: https://www.openaccessgovernment.org/artificial-intelligence-robot-to-support-pupils/87794/
@@ -4765,5 +4765,60 @@
 - title: "Simulate challenging enemy behaviour"
   url: https://www.militaryaerospace.com/computers/article/14177043/artificial-intelligence-ai-war-games-simulation
   cat: gam
-  status: near
+  status: prog
   date: 2020-06-03
+- title: "Improve school attendance"
+  url: https://www.dmu.ac.uk/about-dmu/news/2020/july/researchers-use-artificial-intelligence-to-improve-school-attendance.aspx
+  cat: gov
+  status: does
+  date: 2020-07-28
+- title: "Speed up Alzheimer's diagnoses"
+  url: https://www.sciencedaily.com/releases/2020/07/200728121223.htm
+  cat: med
+  status: prog
+  date: 2020-07-28
+- title: "Detect early-stage pancreatic cancer"
+  url: https://www.ajmc.com/view/can-artificial-intelligence-detect-earlystage-pancreatic-cancer
+  cat: med
+  status: prog
+  date: 2020-07-02
+- title: "Write a song in the style of Iron Maiden"
+  url: https://www.nme.com/news/music/youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence-2699446
+  cat: cre
+  status: does
+  date: 2020-07-01
+- title: "Detect bacteria that cause pneumonia"
+  url: https://healthitanalytics.com/news/artificial-intelligence-can-detect-pneumonia-causing-bacteria
+  cat: med
+  status: prog
+  date: 2020-07-28
+- title: "Spot power grid faults"
+  url: https://www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/
+  cat: ind
+  status: prog
+  date: 2020-07-26
+- title: "Monitor the behaviour of taxi drivers"
+  url: https://www.intelligenttransport.com/transport-news/102138/dubais-rta-begins-monitoring-taxi-driver-behaviour-with-ai/
+  cat: tra
+  status: does
+  date: 2020-07-15
+- title: "Remember your hotel preferences"
+  url: https://www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/
+  cat: pro
+  status: prog
+  date: 2020-07-09
+- title: "Digitise construction sites"
+  url: https://www.newcivilengineer.com/innovative-thinking/artificial-intelligence-via-hard-hat-cameras-06-07-2020/
+  cat: ind
+  status: does
+  date: 2020-07-06
+- title: "Learn to simulate sloppy mixtures"
+  url: https://www.sciencemag.org/news/2020/07/watch-artificial-intelligence-learn-simulate-sloppy-mixtures-water-sand-and-goop
+  cat: sci
+  status: does
+  date: 2020-07-15
+- title: "Protect the identities of BLM protesters"
+  url: https://artificialintelligence-news.com/2020/07/29/researchers-create-ai-bot-protect-identities-blm-protesters/
+  cat: sec
+  status: does
+  date: 2020-07-29
