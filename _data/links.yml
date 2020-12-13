@@ -4497,7 +4497,7 @@
   cat: fin
   status: does
   date: 2020-03-13
-- title: "Predict which Covid-19 patients will develop respiratory disease"
+- title: "Predict when Covid-19 will cause respiratory disease"
   url: https://www.sciencedaily.com/releases/2020/03/200330152135.htm
   cat: med
   status: does
@@ -4532,4 +4532,73 @@
   cat: sci
   status: does
   date: 2020-03-03
-
+- title: "Help diagnose ADHD in adults"
+  url: https://www.yorkshirepost.co.uk/health/artificial-intelligence-advance-adhd-diagnosis-2547301
+  cat: med
+  status: near
+  date: 2020-04-27
+- title: "Find the best drug combinations to treat Covid-19"
+  url: https://www.futurity.org/identif-ai-artificial-intelligence-drug-combination-2351192-2/
+  cat: sci
+  status: does
+  date: 2020-04-29
+- title: "Identify brain mutations in glioma tumours"
+  url: https://www.healtheuropa.eu/brain-cancer-patients-could-avoid-biopsies-thanks-to-artificial-intelligence/99517/
+  cat: med
+  status: near
+  date: 2020-04-23
+- title: "Enter a song contest"
+  url: https://www.sciencemag.org/news/2020/04/artificial-intelligence-takes-song-composing-duties-eurovision-inspired-contest
+  cat: cre
+  status: near
+  date: 2020-04-24
+- title: "Track how people are feeling about Covid-19"
+  url: https://www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/
+  cat: spe
+  status: does
+  date: 2020-04-17
+- title: "Protect coral reefs"
+  url: https://www.zdnet.com/article/smart-coral-reefs-this-underwater-fish-spotting-ai-helps-protect-the-rainforest-of-the-sea/
+  cat: gov
+  status: does
+  date: 2020-04-22
+- title: "Write like Shakespeare"
+  url: https://spectrum.ieee.org/artificial-intelligence/machine-learning/this-ai-poet-mastered-rhythm-rhyme-and-natural-language-to-write-like-shakespeare
+  cat: cre
+  status: does
+  date: 2020-04-30
+- title: "Be legally recognised as an inventor"
+  url: https://www.theverge.com/2020/4/29/21241251/artificial-intelligence-inventor-united-states-patent-trademark-office-intellectual-property
+  cat: oth
+  status: near
+  date: 2020-04-29
+- title: "Avoid over-confident predictions"
+  url: https://www.defenseone.com/technology/2020/04/artificial-intelligence-outperforms-human-intel-analysts-one-key-area/165022/
+  cat: oth
+  status: near
+  date: 2020-04-29
+- title: "Help stave off feelings of loneliness"
+  url: https://www.raconteur.net/technology/artificial-intelligence/ai-loneliness-mitsuku/
+  cat: oth
+  status: does
+  date: 2020-04-28
+- title: "Generate absurdist memes"
+  url: https://www.businessinsider.com/memes-artificial-intelligence-technology-deepfake-imgflip-meme-does-not-exist-2020-4
+  cat: cre
+  status: does
+  date: 2020-04-29
+- title: "Power a virtual rat"
+  url: https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/ai-powered-rat-valuable-new-tool-neuroscience
+  cat: com
+  status: does
+  date: 2020-04-27
+- title: "Scan you when you're on the toilet"
+  url: https://www.independent.co.uk/life-style/gadgets-and-tech/news/smart-toilet-camera-artificial-intelligence-cancer-disease-ai-anal-print-health-a9450901.html
+  cat: med
+  status: near
+  date: 2020-04-06
+- title: "Mediate difficult conversations"
+  url: https://www.unite.ai/new-research-shows-how-ai-can-act-as-mediators/
+  cat: spe
+  status: near
+  date: 2020-04-05
