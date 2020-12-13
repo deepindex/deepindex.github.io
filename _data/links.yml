@@ -1178,7 +1178,7 @@
   cat: tra
   status: does
   date: 2017-09-20
-- title: "Fly an F-16 fighter jet"
+- title: "Pilot an F-16 fighter jet"
   url: https://techcrunch.com/2017/04/11/u-s-air-force-and-lockheed-demonstrate-autonomous-f-16-strike-capabilities/
   cat: tra
   status: does
@@ -4647,7 +4647,7 @@
   cat: ind
   status: near
   date: 2020-05-07
-- title: "Create a new AC/DC song"
+- title: "Write a song in the style of AC/DC"
   url: https://www.nme.com/news/music/man-creates-ac-dc-song-using-artificial-intelligence-2670117
   cat: cre
   status: does
@@ -4687,3 +4687,83 @@
   cat: pro
   status: near
   date: 2020-05-27
+- title: "Tell the members of Little Mix apart"
+  url: https://www.theguardian.com/technology/2020/jun/09/microsofts-robot-journalist-confused-by-mixed-race-little-mix-singers
+  cat: vis
+  status: near
+  date: 2020-06-09
+- title: "Solve appointment backlogs due to Covid-19"
+  url: https://digit.fyi/nhs-to-use-artificial-intelligence-to-solve-appointment-backlog/
+  cat: ind
+  status: does
+  date: 2020-06-26
+- title: "Automate dental clinical analysis"
+  url: https://www.businesswire.com/news/home/20200630005971/en/Overjet-Raises-7.85-Million-to-Improve-Dental-Care-Using-Artificial-Intelligence
+  cat: med
+  status: does
+  date: 2020-06-30
+- title: "Determine Covid-19 severity"
+  url: https://www.healtheuropa.eu/using-artificial-intelligence-to-determine-covid-19-severity/100501/
+  cat: med
+  status: does
+  date: 2020-06-05
+- title: "Pilot an F-35 fighter jet in a dogfight"
+  url: https://www.militaryaerospace.com/computers/article/14178610/artificial-intelligence-ai-jet-fighter-unmanned
+  cat: tra
+  status: near
+  date: 2020-06-29
+- title: "Improve the accuracy of eye tests"
+  url: https://www.sciencemag.org/news/2020/06/eye-robot-artificial-intelligence-dramatically-improves-accuracy-classic-eye-exam
+  cat: med
+  status: near
+  date: 2020-06-03
+- title: "Reduce delays at airports"
+  url: https://www.internationalairportreview.com/article/114026/artificial-intelligence-heathrow-airport/
+  cat: tra
+  status: does
+  date: 2020-06-03
+- title: "Reduce retail return rates"
+  url: https://www.digitalcommerce360.com/2020/06/08/how-artificial-intelligence-and-augmented-reality-can-put-a-dent-in-return-rates/
+  cat: pro
+  status: does
+  date: 2020-06-08
+- title: "Check Covid-19 compliance in taxis"
+  url: https://www.khaleejtimes.com/coronavirus-pandemic/combating-coronavirus-rta-employs-artificial-intelligence-in-taxis-to-curb-spread-of-covid-19
+  cat: tra
+  status: does
+  date: 2020-06-15
+- title: "Check Covid-19 compliance on public transport"
+  url: https://www.verdict.co.uk/artificial-intelligence-face-mask/
+  cat: tra
+  status: does
+  date: 2020-06-08
+- title: "Make your own music festival"
+  url: https://zyro.com/ai-festival
+  cat: cre
+  status: does
+  date: 2020-06-26
+- title: "Analyse opinions through brain activity"
+  url: https://www.unite.ai/artificial-intelligence-used-to-analyze-opinions-through-brain-activity/
+  cat: oth
+  status: near
+  date: 2020-06-25
+- title: "Manage power company control rooms"
+  url: https://www.globenewswire.com/news-release/2020/06/09/2045868/0/en/Radix-Develops-Artificial-Intelligence-Tool-to-Improve-Control-Room-Management-and-Operations-for-ISA-CTEEP.html
+  cat: ind
+  status: near
+  date: 2020-06-09
+- title: "Support group discussions in primary schools"
+  url: https://www.openaccessgovernment.org/artificial-intelligence-robot-to-support-pupils/87794/
+  cat: gov
+  status: does
+  date: 2020-06-03
+- title: "Write a song in the style of Metallica"
+  url: https://www.kerrang.com/the-news/listen-to-a-fake-metallica-song-created-using-artificial-intelligence/
+  cat: cre
+  status: does
+  date: 2020-06-10
+- title: "Simulate challenging enemy behaviour"
+  url: https://www.militaryaerospace.com/computers/article/14177043/artificial-intelligence-ai-war-games-simulation
+  cat: gam
+  status: near
+  date: 2020-06-03
