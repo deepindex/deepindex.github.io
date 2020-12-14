@@ -1629,10 +1629,10 @@
   status: prog
   date: 2018-02-05
 - title: "Diagnose prostate cancer"
-  url: https://cloud.google.com/customers/maxwell-mri/
+  url: https://healthitanalytics.com/news/artificial-intelligence-bests-clinicians-in-flagging-prostate-cancer
   cat: med
-  status: prog
-  date: 
+  status: does
+  date: 2020-08-10
 - title: "Diagnose common conditions"
   url: https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/doc-1-apps-0
   cat: med
@@ -4362,7 +4362,7 @@
   cat: tra
   status: does
   date: 2020-01-15
-- title: "Reduce the dose of gadolinium agents required for MRIs"
+- title: "Reduce gadolinium agents required for MRIs"
   url: https://www.itnonline.com/article/artificial-intelligence-processes-provide-solutions-gadolinium-retention-concerns
   cat: med
   status: prog
@@ -4822,3 +4822,53 @@
   cat: sec
   status: does
   date: 2020-07-29
+- title: "Generate amazing human-like text on demand"
+  url: https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/
+  cat: cre
+  status: does
+  date: 2020-07-20
+- title: "Write a theatre play"
+  url: https://techxplore.com/news/2020-08-theaitre-theatre-written-machines.html
+  cat: cre
+  status: prog
+  date: 2020-08-03
+- title: "Recognise hand gestures"
+  url: https://eurekalert.org/pub_releases/2020-08/ntu-nss081320.php
+  cat: vis
+  status: does
+  date: 2020-08-13
+- title: "Screen imported seafood"
+  url: https://www.fda.gov/news-events/fda-voices/import-screening-pilot-unleashes-power-data-and-leverages-artificial-intelligence
+  cat: ind
+  status: prog
+  date: 2020-08-31
+- title: "Know when to defer to a human"
+  url: https://www.healthcareitnews.com/news/new-ai-diagnostic-tool-knows-when-defer-human-mit-researchers-say
+  cat: oth
+  status: prog
+  date: 2020-08-04
+- title: "Predict chemical reactions in forward synthesis"
+  url: https://bdtechtalks.com/2020/08/31/ibm-roborxn-ai-robotics-chemical-research/
+  cat: sci
+  status: does
+  date: 2020-08-31
+- title: "Make MRI scans faster"
+  url: https://www.theverge.com/2020/8/18/21373335/faster-mri-scans-ai-machine-learning-facebook-nyu-research-clinical-study
+  cat: med
+  status: wins
+  date: 2020-08-18
+- title: "Win a virtual F-16 dogfight"
+  url: https://www.independent.co.uk/life-style/gadgets-and-tech/news/ai-pilot-dogfight-artificial-intelligence-darpa-a9681346.html
+  cat: tra
+  status: does
+  date: 2020-08-21
+- title: "Monitor Covid-19 social distancing"
+  url: https://www.dailysabah.com/business/tech/artificial-intelligence-backed-support-for-social-distancing-control
+  cat: ind
+  status: does
+  date: 2020-08-14
+- title: "Optimise windmill safety"
+  url: https://innovationorigins.com/artificial-intelligence-helps-optimize-windmill-safety-and-energy-generation/
+  cat: ind
+  status: prog
+  date: 2020-08-27
