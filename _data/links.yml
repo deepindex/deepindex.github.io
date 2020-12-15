@@ -398,7 +398,7 @@
   cat: hom
   status: does
   date: 
-- title: "Invent recipes"
+- title: "Discover new ingredient pairings"
   url: https://www.ice.edu/about-us/brand-at-ice/ibm-cognitive-cooking-with-chef-watson-partnership
   cat: hom
   status: does
@@ -4872,3 +4872,63 @@
   cat: ind
   status: prog
   date: 2020-08-27
+- title: "Keep ATMs stocked with cash"
+  url: https://www.computerweekly.com/news/252488683/Artificial-intelligence-keeps-HSBC-ATMs-stocked
+  cat: fin
+  status: does
+  date: 2020-09-07
+- title: "Combat online antisemitism"
+  url: https://www.timesofisrael.com/scientists-combat-online-anti-semitism-with-artificial-intelligence/
+  cat: sec
+  status: prog
+  date: 2020-09-21
+- title: "Predict patient disengagement"
+  url: https://www.prnewswire.com/news-releases/introducing-caresignal-ai-artificial-intelligence-capable-of-predicting-and-preventing-patient-disengagement-301139938.html
+  cat: med
+  status: prog
+  date: 2020-09-29
+- title: "Map bus routes according to usage"
+  url: https://www.intelligenttransport.com/transport-news/106535/dubais-rta-uses-ai-to-map-bus-routes-according-to-usage/
+  cat: tra
+  status: does
+  date: 2020-09-07
+- title: "Identify tooth decay"
+  url: https://www.dentistry.co.uk/2020/09/04/accurate-artificial-intelligence-tooth-decay/
+  cat: med
+  status: does
+  date: 2020-09-04
+- title: "Get published in The Guardian"
+  url: https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3
+  cat: cre
+  status: does
+  date: 2020-09-08
+- title: "Predict the quality of bioscaffolds"
+  url: https://www.sciencedaily.com/releases/2020/09/200921135407.htm
+  cat: sci
+  status: prog
+  date: 2020-09-21
+- title: "Forecast customer sales and churn"
+  url: https://www.businesswire.com/news/home/20200923005039/en/P360-Adds-Advanced-Artificial-Intelligence-Capabilities-to-Its-Sales-Enablement-Platform-BirdzAI
+  cat: pro
+  status: prog
+  date: 2020-09-23
+- title: "Predict loneliness"
+  url: https://health.ucsd.edu/news/releases/Pages/2020-09-24-talking-alone-researchers-use-artificial-intelligence-tools-to-predict-loneliness.aspx
+  cat: oth
+  status: does
+  date: 2020-09-24
+- title: "Warn villagers when elephants are coming"
+  url: https://news.mongabay.com/2020/09/new-artificial-intelligence-could-save-both-elephant-and-human-lives/
+  cat: gov
+  status: does
+  date: 2020-09-17
+- title: "Create recipes based on what you have to hand"
+  url: https://www.bbc.co.uk/news/business-53794472
+  cat: hom
+  status: prog
+  date: 2020-09-07
+- title: "Identify asymptomatic Covid-19 from your cough"
+  url: https://www.expresscomputer.in/artificial-intelligence-ai/wadhwani-institute-for-artificial-intelligence-announces-breakthrough-ai-tool-that-can-identify-covid-19-asymptomatic-patients/63681/
+  cat: med
+  status: does
+  date: 2020-09-15
