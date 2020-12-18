@@ -4932,3 +4932,58 @@
   cat: med
   status: does
   date: 2020-09-15
+- title: "Produce a lightly-grilled beef taste"
+  url: https://www.newfoodmagazine.com/news/121276/grilled-beef-flavour-produced-using-artificial-intelligence/
+  cat: hom
+  status: does
+  date: 2020-10-06
+- title: "Create new logos from scratch"
+  url: https://www.creativebloq.com/news/ai-logo-generator-zyro
+  cat: cre
+  status: does
+  date: 2020-10-06
+- title: "Detect food safety risks"
+  url: https://www.foodmanufacture.co.uk/Article/2020/10/13/Artificial-intelligence-tool-launched-to-flag-food-safety-threats
+  cat: ind
+  status: prog
+  date: 2020-10-13
+- title: "Operate a building's HVAC system"
+  url: https://www.businesswire.com/news/home/20201015005231/en/BrainBox-AI-Launches-Pioneering-Artificial-Intelligence-Building-Technology-in-the-UK-Ireland
+  cat: ind
+  status: does
+  date: 2020-10-15
+- title: "Breed crops for a changing climate"
+  url: https://www.pnas.org/content/117/44/27066
+  cat: agr
+  status: prog
+  date: 2020-10-14
+- title: "Reduce hospital admissions for the elderly"
+  url: https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/
+  cat: med
+  status: prog
+  date: 2020-10-30
+- title: "Estimate oil reserves"
+  url: https://www.forbes.com/sites/davidteich/2020/10/26/artificial-intelligence-is-used-to-understand-the-geospatial-world-to-improve-business-and-governmental-performance/
+  cat: gov
+  status: does
+  date: 2020-10-26
+- title: "Optimise broadband networks"
+  url: https://www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/
+  cat: ind
+  status: prog
+  date: 2020-10-22
+- title: "Predict the Presidential election"
+  url: https://www.independent.co.uk/news/world/americas/us-election-2020/2020-election-whos-going-to-win-ai-trump-biden-results-outcome-odds-b1374290.html
+  cat: gov
+  status: prog
+  date: 2020-10-27
+- title: "Identify new Alzheimer's biomarkers"
+  url: https://healthitanalytics.com/news/study-uses-artificial-intelligence-for-alzheimers-drug-development
+  cat: sci
+  status: does
+  date: 2020-10-15
+- title: "Teach people foreign languages"
+  url: https://www.forbes.com/sites/bernardmarr/2020/10/16/the-amazing-ways-duolingo-is-using-artificial-intelligence-to-deliver-free-language-learning/
+  cat: edu
+  status: does
+  date: 2020-10-16
