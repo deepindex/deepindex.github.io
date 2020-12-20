@@ -4203,10 +4203,10 @@
   status: prog
   date: 2019-11-29
 - title: "Preside over court hearings"
-  url: https://www.express.co.uk/news/science/1214019/ai-china-cyber-court-artificial-intelligence-judges-verdicts-chat-app
+  url: https://www.unite.ai/china-beginning-to-implement-ai-in-court-system/
   cat: gov
   status: prog
-  date: 2019-12-06
+  date: 2019-12-11
 - title: "Improve MRI detection of ADHD"
   url: https://eurekalert.org/pub_releases/2019-12/rson-aib120919.php
   cat: med
@@ -4987,3 +4987,58 @@
   cat: edu
   status: does
   date: 2020-10-16
+- title: "Distinguish a football from a bald head"
+  url: https://www.theverge.com/tldr/2020/11/3/21547392/ai-camera-operator-football-bald-head-soccer-mistakes
+  cat: vis
+  status: prog
+  date: 2020-11-03
+- title: "Estimate air pollution"
+  url: https://airqualitynews.com/2020/11/20/ai-and-satellite-technology-reveals-detailed-map-of-air-pollution/
+  cat: gov
+  status: does
+  date: 2020-11-20
+- title: "Identify sick livestock"
+  url: http://www.bristol.ac.uk/news/2020/november/ai-livestock.html
+  cat: agr
+  status: prog
+  date: 2020-11-02
+- title: "Sort content for quicker moderation"
+  url: https://www.theverge.com/2020/11/13/21562596/facebook-ai-moderation
+  cat: sec
+  status: does
+  date: 2020-11-13
+- title: "Renegotiate contracts"
+  url: https://www.forbes.com/sites/richardkestenbaum/2020/11/23/a-company-called-pactum-shows-the-power-of-artificial-intelligences-impact-on-walmart-and-all-retail/
+  cat: pro
+  status: does
+  date: 2020-11-23
+- title: "Research speech disorders related to Parkinson's"
+  url: https://healthitanalytics.com/news/artificial-intelligence-may-offer-insight-into-parkinsons-disease
+  cat: sci
+  status: prog
+  date: 2020-11-24
+- title: "Detect patients at risk of osteoporosis"
+  url: https://www.timesofisrael.com/israel-uk-teams-to-use-ai-to-help-flag-patients-at-risk-for-osteoporosis/
+  cat: med
+  status: prog
+  date: 2020-11-23
+- title: "Determine the 3D shapes of proteins"
+  url: https://www.nature.com/articles/d41586-020-03348-4
+  cat: sci
+  status: wins
+  date: 2020-11-30
+- title: "Generate military targeting data"
+  url: https://www.militaryaerospace.com/computers/article/14187346/targeting-artificial-intelligence-ai-sensor
+  cat: sec
+  status: prog
+  date: 2020-11-16
+- title: "Predict mouth cancer risk"
+  url: https://www.thehindu.com/sci-tech/health/artificial-intelligence-helps-better-predict-mouth-cancer-risk/article33028342.ece
+  cat: med
+  status: prog
+  date: 2020-11-05
+- title: "Process adverse reactions to Covid-19 vaccines"
+  url: https://www.ft.com/content/17a306cd-be75-48b4-996e-0c2916b34797
+  cat: med
+  status: prog
+  date: 2020-11-01
