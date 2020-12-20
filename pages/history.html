@@ -20,7 +20,7 @@ description: "A brief history of artificial intelligence."
       
       <h2>{{ page.description | remove: "." }}</h2>
       
-      <p class="lead">Here are {{ site.data.links.size }} examples of AI in (roughly) the order they happened.</p>
+      <p class="lead">Here are {% if site.data.links.size > 999 %}{{ site.data.links.size | slice: 0 }},{{ site.data.links.size | slice: -3, 3 }}{% else %}{{ site.data.links.size }}{% endif %} examples of AI in (roughly) the order they happened.</p>
       
       <p>&larr; <a href="\">Return to homepage</a></p>
       

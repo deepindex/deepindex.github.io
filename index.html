@@ -23,14 +23,14 @@ layout: splash
       
       <h2>{{ site.description | remove: "." }}</h2>
       
-      <p class="lead">Here are {{ site.data.links.size }} examples of AI in action.</p>
+      <p class="lead">Here are {% if site.data.links.size > 999 %}{{ site.data.links.size | slice: 0 }},{{ site.data.links.size | slice: -3, 3 }}{% else %}{{ site.data.links.size }}{% endif %} examples of AI in action.</p>
      
       <p>
       <a target="_blank" class="btn btn-xs btn-social btn-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url | url_encode }}" title="Share on Facebook"><i class="fab fa-facebook"></i> Like</a>
       <a target="_blank" class="btn btn-xs btn-social btn-tw" href="https://twitter.com/intent/tweet?text={{ site.title | url_encode }}&url={{ page.url | prepend: site.url | url_encode }}&via={{ site.twitter }}" title="Share on Twitter"><i class="fab fa-twitter"></i> Tweet</a>
       <a target="_blank" class="btn btn-xs btn-social btn-li" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url | url_encode }}" title="Share on LinkedIn"><i class="fab fa-linkedin"></i> Share</a>
       </p>
-    
+
     </div>
     <div class="col-md-4 splash">
       <h4>Legend</h4>
