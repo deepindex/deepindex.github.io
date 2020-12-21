@@ -46,7 +46,7 @@ layout: splash
     
     {% assign counter = counter | plus: group.size %}
   
-    <div class="col-xl-4 c-bg-{{ block_count }} c-div c-list pb-3"><a name="{{ block.name | truncatewords: 1, "" }}"></a>
+    <div class="col-xl-4 c-bg-{{ block_count }} c-div c-list pb-3" id="{{ block.name | truncatewords: 1, "" }}">
 
     <h5 class="c-bg-{{ block_count }} pt-3 pb-1 mb-1"><a href="#{{ block.name | truncatewords: 1, "" }}">{{ block.name }}</a> <small>{{ group.size }}</small> <a href="#" class="float-right">&uarr; <small>Top</small></a></h5>
 
