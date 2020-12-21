@@ -1148,7 +1148,7 @@
   cat: tra
   status: does
   date: 2018-11-13
-- title: "Optimise charging for bike and scooter networks"
+- title: "Optimise bike and scooter charging"
   url: https://www.bikebiz.com/features/expanding-bike-share-with-artificial-intelligence
   cat: tra
   status: does
@@ -1298,7 +1298,7 @@
   cat: gov
   status: does
   date: 2018-05-15
-- title: "Track the migration patterns of endangered whales"
+- title: "Track the migration patterns of whales"
   url: https://www.google.com/about/stories/soundwaves/
   cat: gov
   status: does
@@ -1548,7 +1548,7 @@
   cat: med
   status: does
   date: 2017-11-14
-- title: "Predict schizophrenia from blood flow in the brain"
+- title: "Predict schizophrenia from brain blood flow"
   url: https://www.engadget.com/2017/07/20/ibms-ai-can-predict-schizophrenia-by-looking-at-the-brains-blo/
   cat: med
   status: does
@@ -3192,7 +3192,7 @@
   cat: med
   status: does
   date: 2019-05-07
-- title: "Monitor pollution from the world's power plants"
+- title: "Monitor pollution from power plants"
   url: https://earther.gizmodo.com/google-wants-to-use-ai-to-track-pollution-from-every-po-1834669673
   cat: gov
   status: prog
@@ -3632,7 +3632,7 @@
   cat: med
   status: prog
   date: 2019-08-16
-- title: "Automate feature engineering in medical datasets"
+- title: "Automate feature engineering in medical data"
   url: https://scitechdaily.com/mit-automates-artificial-intelligence-for-medical-decision-making/
   cat: med
   status: prog
@@ -4217,7 +4217,7 @@
   cat: med
   status: prog
   date: 2019-12-20
-- title: "Identify features associated with cancer recurrence"
+- title: "Identify features linked to cancer recurrence"
   url: https://www.eurekalert.org/pub_releases/2019-12/r-aii121519.php
   cat: med
   status: prog
@@ -4242,7 +4242,7 @@
   cat: tra
   status: prog
   date: 2019-12-16
-- title: "Coordinate drone swarm search-and-rescue ops"
+- title: "Coordinate search-and-rescue drone swarms"
   url: https://www.nextgov.com/emerging-tech/2019/12/pentagon-wants-ai-driven-drone-swarms-search-and-rescue-ops/162113/
   cat: sec
   status: prog
@@ -4332,7 +4332,7 @@
   cat: ind
   status: does
   date: 2020-01-17
-- title: "Detect low glucose levels without a fingerpick test"
+- title: "Detect low glucose without a fingerpick test"
   url: https://www.newswise.com/articles/artificial-intelligence-ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test
   cat: med
   status: does
@@ -4417,12 +4417,12 @@
   cat: vis
   status: does
   date: 2020-02-25
-- title: "Identify personalised brain networks in children"
+- title: "Identify specific brain networks in children"
   url: https://www.technologynetworks.com/neuroscience/news/artificial-intelligence-ai-identifies-personalized-brain-networks-in-children-331156
   cat: med
   status: does
   date: 2020-02-23
-- title: "Find news ways to make scratch-resistant glass"
+- title: "Find new ways to make glass"
   url: https://www.businesswire.com/news/home/20200203005696/en/AGC-and-Citrine-Informatics-Collaborate-to-Develop-New-Glass-Technology-Using-AI
   cat: sci
   status: prog
@@ -4432,7 +4432,7 @@
   cat: cre
   status: does
   date: 2019-05-21
-- title: "Scan doctors' notes to distinguish types of back pain"
+- title: "Scan doctors' notes to identify back pain"
   url: https://www.sciencedaily.com/releases/2020/02/200228102221.htm
   cat: med
   status: prog
@@ -4457,7 +4457,7 @@
   cat: med
   status: prog
   date: 2020-03-02
-- title: "Create personalised makeup recommendations"
+- title: "Personalise makeup recommendations"
   url: https://www.businesswire.com/news/home/20200325005404/en/Perfect-Corp.%E2%80%99s-YouCam-AI-Skin-Tech-Is-Honored-with-the-2020-Artificial-Intelligence-Excellence-Award-for-Outstanding-Innovation
   cat: hom
   status: does
@@ -4497,7 +4497,7 @@
   cat: fin
   status: does
   date: 2020-03-13
-- title: "Predict when Covid-19 will cause respiratory disease"
+- title: "Predict respiratory disease from Covid-19"
   url: https://www.sciencedaily.com/releases/2020/03/200330152135.htm
   cat: med
   status: does
@@ -4537,7 +4537,7 @@
   cat: med
   status: prog
   date: 2020-04-27
-- title: "Find the best drug combinations to treat Covid-19"
+- title: "Find the best drug combinations for Covid-19"
   url: https://www.futurity.org/identif-ai-artificial-intelligence-drug-combination-2351192-2/
   cat: sci
   status: does
@@ -4622,7 +4622,7 @@
   cat: rob
   status: prog
   date: 2020-05-11
-- title: "Cope with how Covid-19 has changed the world"
+- title: "Cope with how Covid-19 has changed things"
   url: https://www.zdnet.com/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/
   cat: oth
   status: prog
@@ -4732,7 +4732,7 @@
   cat: tra
   status: does
   date: 2020-06-15
-- title: "Check Covid-19 compliance on public transport"
+- title: "Check Covid-19 safety on public transport"
   url: https://www.verdict.co.uk/artificial-intelligence-face-mask/
   cat: tra
   status: does
@@ -4847,7 +4847,7 @@
   cat: oth
   status: prog
   date: 2020-08-04
-- title: "Predict chemical reactions in forward synthesis"
+- title: "Predict chemical reactions"
   url: https://bdtechtalks.com/2020/08/31/ibm-roborxn-ai-robotics-chemical-research/
   cat: sci
   status: does
@@ -4922,12 +4922,12 @@
   cat: gov
   status: does
   date: 2020-09-17
-- title: "Create recipes based on what you have to hand"
+- title: "Create recipes for the ingredients to hand"
   url: https://www.bbc.co.uk/news/business-53794472
   cat: hom
   status: prog
   date: 2020-09-07
-- title: "Identify asymptomatic Covid-19 from your cough"
+- title: "Identify Covid-19 from your cough"
   url: https://www.expresscomputer.in/artificial-intelligence-ai/wadhwani-institute-for-artificial-intelligence-announces-breakthrough-ai-tool-that-can-identify-covid-19-asymptomatic-patients/63681/
   cat: med
   status: does
@@ -5012,7 +5012,7 @@
   cat: pro
   status: does
   date: 2020-11-23
-- title: "Research speech disorders related to Parkinson's"
+- title: "Research speech disorders from Parkinson's"
   url: https://healthitanalytics.com/news/artificial-intelligence-may-offer-insight-into-parkinsons-disease
   cat: sci
   status: prog
@@ -5037,7 +5037,7 @@
   cat: med
   status: prog
   date: 2020-11-05
-- title: "Process adverse reactions to Covid-19 vaccines"
+- title: "Process Covid-19 vaccine adverse reactions"
   url: https://www.ft.com/content/17a306cd-be75-48b4-996e-0c2916b34797
   cat: med
   status: prog
