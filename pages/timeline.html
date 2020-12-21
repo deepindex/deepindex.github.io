@@ -1,34 +1,26 @@
 ---
 layout: splash
-permalink: /history/
-title: History
-description: "A brief history of artificial intelligence."
+permalink: /timeline/
+title: Timeline
+description: "Keeping track of what AI can do, and when it did it."
 ---
 
 <div class="container">
 
-  <div class="row">
-    <div class="col-md-12">
+  <div class="row pt-4">
+    <div class="col-xl-12">
     
-      <h1><a href="/"><img src="../images/splash.png" class="logo" alt="DeepIndex" /></a></h1>
-    
-    </div>
-  </div>
-  
-  <div class="row">
-    <div class="col-md-12 splash">
+      <h2>{{ site.title }}</h2>
       
-      <h2>{{ page.description | remove: "." }}</h2>
+      <p class="lead"><strong>{{ page.title }}</strong> — {{ page.description }}</p>
       
-      <p class="lead">Here are {% if site.data.links.size > 999 %}{{ site.data.links.size | slice: 0 }},{{ site.data.links.size | slice: -3, 3 }}{% else %}{{ site.data.links.size }}{% endif %} examples of AI in (roughly) the order they happened.</p>
-      
-      <p>&larr; <a href="\">Return to homepage</a></p>
+      <p>&larr; <a href="\">Homepage</a></p>
       
     </div> 
   </div>
   
   <div class="row">
-    <div class="col-md-12 splash history">
+    <div class="col-xl-12 c-list">
 
       {% assign countdown = site.data.links.size %}
 
@@ -45,7 +37,7 @@ description: "A brief history of artificial intelligence."
         {% endif %}
       {% endfor %}      
       
-      <h4>{{ latest_month }} <small>{{ tempo }} ({{ countdown }})</small></h4>
+      <h5 class="mt-5">{{ latest_month }} <small>{{ tempo }} ({{ countdown }})</small></h4>
 
       {% for item in items %}
         {% assign current_year = item.date | date: "%Y" %}
@@ -64,7 +56,7 @@ description: "A brief history of artificial intelligence."
               {% endif %}
             {% endfor %}
           
-            <h4>{{ current_month }} <small>{{ tempo }} ({{ countdown }})</small></h4>
+            <h5 class="mt-5">{{ current_month }} <small>{{ tempo }} ({{ countdown }})</small></h4>
             
             {% assign latest_month = current_month %}
           {% endif %}
@@ -83,9 +75,9 @@ description: "A brief history of artificial intelligence."
                 {% endif %}
               {% endfor %}
             
-              <h4>{{ current_year }} <small>{{ tempo }} ({{ countdown }})</small></h4>
+              <h5 class="mt-5">{{ current_year }} <small>{{ tempo }} ({{ countdown }})</small></h4>
             {% else %}
-              <h4>Undated <small>{{ countdown }}</small></h4>
+              <h5 class="mt-5">Undated <small>{{ countdown }}</small></h4>
             {% endif %}
             {% assign latest_year = current_year %}
           {% endif %} 
@@ -94,15 +86,23 @@ description: "A brief history of artificial intelligence."
         
         {% assign cat_bg = site.data.cats | where: "cat",item.cat %}
         
-        <p>
+        <p class="mb-0">
+          {% for block in site.data.cats %}
+            {% if block.cat == item.cat %}
+              {% assign cat_ref = block.name %}
+            {% endif %}
+          {% endfor %}
+          <a href="/#{{ cat_ref | truncatewords: 1, "" }}" class="badge c-bg-{{ cat_bg[0].block }} text-monospace text-uppercase">{{ item.cat }}</a>
+          
           {% if item.status == "wins" %}
-            <a href="/#{{ item.cat | truncatewords: 1, "" }}"><img src="/images/moon-3-t.png" class="icon c-block-{{ cat_bg[0].block }}" alt="" /></a>
+            <img src="/images/moon-3-t.png" class="icon c-bg-{{ cat_bg[0].block }}" alt="" />
           {% elsif item.status == "does" %}
-            <a href="/#{{ item.cat | truncatewords: 1, "" }}"><img src="/images/moon-2-t.png" class="icon c-block-{{ cat_bg[0].block }}" alt="" /></a>
+            <img src="/images/moon-2-t.png" class="icon c-bg-{{ cat_bg[0].block }}" alt="" />
           {% else %}
-            <a href="/#{{ item.cat | truncatewords: 1, "" }}"><img src="/images/moon-1-t.png" class="icon c-block-{{ cat_bg[0].block }}" alt="" /></a>
+            <img src="/images/moon-1-t.png" class="icon c-bg-{{ cat_bg[0].block }}" alt="" />
           {% endif %}
-        <a href="{{ item.url }}">{{ item.title }}</a></p>
+          
+          <a href="{{ item.url }}">{{ item.title }}</a></p>
         
         {% assign countdown = countdown | minus: 1 %}
         
@@ -111,8 +111,8 @@ description: "A brief history of artificial intelligence."
     </div>
   </div>
   
-  <div class="row">
-    <div class="col-md-12 splash">
+  <div class="row py-4">
+    <div class="col-xl-12">
     
     {% include footer.html %}
 

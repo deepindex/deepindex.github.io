@@ -1158,7 +1158,7 @@
             var css = {
                 wrapper: {
                     position: "relative",
-                    display: "inline-block"
+                    display: "block"
                 },
                 hint: {
                     position: "absolute",
@@ -1843,7 +1843,7 @@
             display = display || _.stringify;
             return _.isFunction(display) ? display : displayFn;
             function displayFn(obj) {
-                return obj[display];
+                return obj["title"];
             }
         }
         function getTemplates(templates, displayFn) {

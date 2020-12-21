@@ -1,6 +1,17 @@
 {% assign items = site.data.links | sort: "date" | reverse %} 
 {% assign latest_date = items[0].date | date: "%B %Y" %}
 
-<p class="text-muted"><small>Twitter: <a href="https://twitter.com/deepindex">@deepindex</a><br />
+<p class="text-muted"><small>
 Contact: <a href="mailto:hello@deepindex.org">hello@deepindex.org</a><br />
-Curated by <a href="https://twitter.com/clry2">@clry2</a> and last updated {{ latest_date }} (<a href="/history/">history</a>)</small></p>
+Twitter: <a href="https://twitter.com/deepindex">@deepindex</a><br />
+Curated by <a href="https://twitter.com/clry2">@clry2</a> and last updated {{ latest_date }}
+</small></p>
+
+<p><small>Help improve DeepIndex by suggesting new examples for us to include! <a href="https://github.com/deepindex/deepindex.github.io/blob/master/README.md">Find out more</a> &rarr;</small></p>
+
+
+<p>
+<a target="_blank" class="btn btn-sm btn-social btn-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url | url_encode }}" title="Share on Facebook"><i class="fab fa-facebook"></i> Like</a>
+<a target="_blank" class="btn btn-sm btn-social btn-tw" href="https://twitter.com/intent/tweet?text={{ site.title | url_encode }}&url={{ page.url | prepend: site.url | url_encode }}&via={{ site.twitter }}" title="Share on Twitter"><i class="fab fa-twitter"></i> Tweet</a>
+<a target="_blank" class="btn btn-sm btn-social btn-li" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url | url_encode }}" title="Share on LinkedIn"><i class="fab fa-linkedin"></i> Share</a>
+</p>

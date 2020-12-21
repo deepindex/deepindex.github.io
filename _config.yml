@@ -1,6 +1,6 @@
 # Site settings
 title: DeepIndex
-description: "Keeping track of what AI can do and where it is being applied."
+description: "Keeping track of what AI can do."
 url: "https://deepindex.org"
 enforce_ssl: deepindex.org
 permalink: /:title/

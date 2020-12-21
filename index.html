@@ -4,44 +4,28 @@ layout: splash
 
 <div class="container">
 
-  <div class="row">
-    <div class="col-md-12">
-      <p class="alert alert-info text-center" role="alert">Help improve DeepIndex by suggesting new examples for us to include! <a href="https://github.com/deepindex/deepindex.github.io/blob/master/README.md" class="alert-link">Find out more »</a></p>
+  <div class="row pt-4 pb-3">
+    <div class="col-lg-3">
     </div>
-  </div>
-
-  <div class="row">
-    <div class="col-md-12">
+    <div class="col-lg-6">
     
-      <h1><a href="/"><img src="images/splash.png" class="logo" alt="DeepIndex" /></a></h1>
+      <h1 class="text-center"><img src="/images/logo.png" class="logo" alt="DeepIndex" /></h1>
+      
+      <p class="lead text-center">{{ site.description }}</p>
+      
+      <form>
+        <div class="form-group">
+          <input class="typeahead form-control" type="text" placeholder="Search {% if site.data.links.size > 999 %}{{ site.data.links.size | slice: 0 }},{{ site.data.links.size | slice: -3, 3 }}{% else %}{{ site.data.links.size }}{% endif %} examples in our database..." autocomplete="off">
+        </div>
+      </form>
+      
+      <p class="text-center"><a href="/timeline/">Timeline</a> &rarr;</p>
     
     </div>
-  </div>
-
-  <div class="row">
-    <div class="col-md-8 splash">
-      
-      <h2>{{ site.description | remove: "." }}</h2>
-      
-      <p class="lead">Here are {% if site.data.links.size > 999 %}{{ site.data.links.size | slice: 0 }},{{ site.data.links.size | slice: -3, 3 }}{% else %}{{ site.data.links.size }}{% endif %} examples of AI in action.</p>
-     
-      <p>
-      <a target="_blank" class="btn btn-xs btn-social btn-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url | url_encode }}" title="Share on Facebook"><i class="fab fa-facebook"></i> Like</a>
-      <a target="_blank" class="btn btn-xs btn-social btn-tw" href="https://twitter.com/intent/tweet?text={{ site.title | url_encode }}&url={{ page.url | prepend: site.url | url_encode }}&via={{ site.twitter }}" title="Share on Twitter"><i class="fab fa-twitter"></i> Tweet</a>
-      <a target="_blank" class="btn btn-xs btn-social btn-li" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url | url_encode }}" title="Share on LinkedIn"><i class="fab fa-linkedin"></i> Share</a>
-      </p>
-
-    </div>
-    <div class="col-md-4 splash">
-      <h4>Legend</h4>
-      
-      {% for stat in site.data.stats %}
-      <p><img src="/images/moon-{{ stat.level }}-b.png" class="icon" alt="" /> {{ stat.title }}</p>
-      {% endfor %}
-
-      <p class="visible-xs visible-sm">&nbsp;</p>
+    <div class="col-lg-3">
     </div>
   </div>
+
   
 
   {% assign counter = 0 %}
@@ -62,30 +46,30 @@ layout: splash
     
     {% assign counter = counter | plus: group.size %}
   
-    <div class="col-md-4 c-div c-block-{{ block_count }}"><a name="{{ block.name | truncatewords: 1, "" }}"></a>
+    <div class="col-xl-4 c-bg-{{ block_count }} c-div c-list pb-3"><a name="{{ block.name | truncatewords: 1, "" }}"></a>
 
-    <h3 class="c-block-{{ block_count }}"><a href="#{{ block.name | truncatewords: 1, "" }}">{{ block.name }}</a> <small>{{ group.size }}</small></h3>
+    <h5 class="c-bg-{{ block_count }} pt-3 pb-1 mb-1"><a href="#{{ block.name | truncatewords: 1, "" }}">{{ block.name }}</a> <small>{{ group.size }}</small> <a href="#" class="float-right">&uarr; <small>Top</small></a></h5>
 
     {% assign entries = group | where: "status","wins" | sort_natural: "title" %}
     {% if entries.size > 0 %}
       {% for entry in entries %}
-        <p><img src="/images/moon-3-w.png" class="icon" alt="" /> <a href="{{ entry.url }}">{{ entry.title }}</a></p>
+        <p class="mb-1"><img src="/images/moon-3-w.png" class="icon" alt="" /> <a href="{{ entry.url }}">{{ entry.title }}</a></p>
       {% endfor %} 
-      <p>---</p>
+      <p class="mb-1">---</p>
     {% endif %}    
     
     {% assign entries = group | where: "status","does" | sort_natural: "title" %}
     {% if entries.size > 0 %}
       {% for entry in entries %}
-        <p><img src="/images/moon-2-w.png" class="icon" alt="" /> <a href="{{ entry.url }}">{{ entry.title }}</a></p>
+        <p class="mb-1"><img src="/images/moon-2-w.png" class="icon" alt="" /> <a href="{{ entry.url }}">{{ entry.title }}</a></p>
       {% endfor %}
-      <p>---</p>
+      <p class="mb-1">---</p>
     {% endif %}
 
     {% assign entries = group | where: "status","prog" | sort_natural: "title" %}
     {% if entries.size > 0 %}
       {% for entry in entries %}
-        <p><img src="/images/moon-1-w.png" class="icon" alt="" /> <a href="{{ entry.url }}">{{ entry.title }}</a></p>
+        <p class="mb-1"><img src="/images/moon-1-w.png" class="icon" alt="" /> <a href="{{ entry.url }}">{{ entry.title }}</a></p>
       {% endfor %}  
     {% endif %}
     
@@ -111,25 +95,39 @@ layout: splash
   
     {% if col_count == 2 %}
     
-      <div class="col-md-4">
+      <div class="col-xl-4">
       </div>
     
     {% endif %}
     
-    <div class="col-md-4">
+    <div class="col-xl-4">
     </div>
     
     </div>
     
   {% endif %}
   
-  
-  
-  <div class="row">
-    <div class="col-md-12 splash">
+
+
+  <div class="row pt-4">
+    <div class="col-xl-2 c-list">
     
-    {% include footer.html %}
-    {% if counter <> site.data.links.size %}<p><small>*</small></p>{% endif %}
+      <h6>Legend</h6>
+      {% for stat in site.data.stats %}
+      <p class="mb-0"><img src="/images/moon-{{ stat.level }}-b.png" class="icon" alt="" /> {{ stat.title }}</p>
+      {% endfor %}
+
+    </div>
+    <div class="col-xl-10">
+    </div>
+  </div>  
+  
+  <div class="row py-4">
+    <div class="col-xl-12">
+    
+    {% include footer.html %} 
+    
+    {% if counter <> site.data.links.size %}<p><small>*</small></p>{% endif %}  
 
     </div>
   </div>
