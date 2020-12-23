@@ -1843,7 +1843,7 @@
             display = display || _.stringify;
             return _.isFunction(display) ? display : displayFn;
             function displayFn(obj) {
-                return obj["title"];
+                return obj[display];
             }
         }
         function getTemplates(templates, displayFn) {

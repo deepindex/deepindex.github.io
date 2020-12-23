@@ -16,7 +16,7 @@ $(document).ready(function(){
       },
     {
     name: 'deep-links',
-    display: 'cat',
+    display: 'title',
     source: deepLinks,
     limit: 'Infinity',
     templates: {
