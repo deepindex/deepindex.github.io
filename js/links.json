@@ -1,18 +1,7 @@
 ---
 #
 ---
-
-{% assign counter = 1 %}
-
-{% assign items = site.data.links | sort: "title" %} 
-
-[{% for item in items %}
-{% assign cat_bg = site.data.cats | where: "cat",item.cat %}
-{% for block in site.data.cats %}
-  {% if block.cat == item.cat %}
-    {% assign cat_ref = block.name %}
-  {% endif %}
-{% endfor %}
+{% assign counter = 1 %}{% assign items = site.data.links | sort: "title" %}[{% for item in items %}{% assign cat_bg = site.data.cats | where: "cat",item.cat %}{% for block in site.data.cats %}{% if block.cat == item.cat %}{% assign cat_ref = block.name %}{% endif %}{% endfor %}
   {  
     "title": "{{ item.title }}",
     "url": "{{ item.url }}",  
@@ -21,6 +10,5 @@
     "cat_bg": "{{ cat_bg[0].block }}",
     "status": "{{ item.status }}",
     "date": "{{ item.date }}"
-  }{% if counter < site.data.links.size %},{% endif %}
-{% assign counter = counter | plus: 1 %}
-{% endfor %}]
+  }{% if counter < site.data.links.size %},{% endif %}{% assign counter = counter | plus: 1 %}{% endfor %}
+]
