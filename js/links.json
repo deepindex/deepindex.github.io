@@ -1,5 +1,5 @@
 ---
-# 
+#
 ---
 
 {% assign counter = 1 %}
@@ -10,7 +10,7 @@
 {% assign cat_bg = site.data.cats | where: "cat",item.cat %}
 {% for block in site.data.cats %}
   {% if block.cat == item.cat %}
-    {% assign cat_ref = block.name | truncatewords: 1, ""  %}
+    {% assign cat_ref = block.name %}
   {% endif %}
 {% endfor %}
   {  
