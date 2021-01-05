@@ -11,7 +11,5 @@ Curated by <a href="https://twitter.com/clry2">@clry2</a> and last updated {{ la
 
 
 <p>
-<a target="_blank" class="btn btn-sm btn-social btn-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url | url_encode }}" title="Share on Facebook"><i class="fab fa-facebook"></i> Like</a>
-<a target="_blank" class="btn btn-sm btn-social btn-tw" href="https://twitter.com/intent/tweet?text={{ site.title | url_encode }}&url={{ page.url | prepend: site.url | url_encode }}&via={{ site.twitter }}" title="Share on Twitter"><i class="fab fa-twitter"></i> Tweet</a>
-<a target="_blank" class="btn btn-sm btn-social btn-li" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url | url_encode }}" title="Share on LinkedIn"><i class="fab fa-linkedin"></i> Share</a>
+{% include social-buttons.html %}
 </p>

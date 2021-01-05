@@ -152,6 +152,17 @@ $themeColours: (
   text-decoration: none;
 }
 
+.btn-social {
+  svg {
+    width: 1rem;
+    height: 1rem;
+    vertical-align: text-bottom;
+    path {
+      fill: #FFFFFF;
+    }
+  }
+}
+
 .btn-fb {
   background-color: #4468B0;
 }

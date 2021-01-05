@@ -1,0 +1,3 @@
+<a target="_blank" class="btn btn-sm btn-social btn-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url | url_encode }}" title="Share on Facebook">{% include facebook.svg %} Post</a>
+<a target="_blank" class="btn btn-sm btn-social btn-tw" href="https://twitter.com/intent/tweet?text={{ site.title | url_encode }}&url={{ page.url | prepend: site.url | url_encode }}&via={{ site.twitter }}" title="Share on Twitter">{% include twitter.svg %} Tweet</a>
+<a target="_blank" class="btn btn-sm btn-social btn-li" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url | url_encode }}" title="Share on LinkedIn">{% include linkedin.svg %} Share</a>
