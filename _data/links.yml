@@ -5042,3 +5042,68 @@
   cat: med
   status: prog
   date: 2020-11-01
+- title: "Co-pilot a Lockheed U-2"
+  url: https://www.af.mil/News/Article-Display/Article/2448376/ai-copilot-air-force-achieves-first-military-flight-with-artificial-intelligence/
+  cat: tra
+  status: does
+  date: 2020-12-16
+- title: "Estimate psychological ageing"
+  url: https://insidebigdata.com/2020/12/17/scientists-publish-the-first-human-psychological-aging-clock-using-artificial-intelligence/
+  cat: sci
+  status: does
+  date: 2020-12-17
+- title: "Detect noise during vehicle testing"
+  url: https://www.greencarcongress.com/2020/12/20201214-sounce.html
+  cat: ind
+  status: near
+  date: 2020-12-14
+- title: "Summarise the news"
+  url: https://artificialintelligence-news.com/2020/12/16/facebook-developing-news-summarising-ai-tldr/
+  cat: pro
+  status: near
+  date: 2020-12-16
+- title: "Improve urban building design"
+  url: https://www.propertyfundsworld.com/2020/12/15/293557/nrep-pioneers-artificial-intelligence-real-estate-using-spacemaker
+  cat: ind
+  status: near
+  date: 2020-12-15
+- title: "Control plasma-based particle acclerators"
+  url: https://www.imperial.ac.uk/news/210313/artificial-intelligence-improves-control-powerful-plasma/
+  cat: sci
+  status: near
+  date: 2020-12-11
+- title: "Process primary care clinical correspondence"
+  url: https://www.digitalhealth.net/2020/12/new-advanced-ai-solution-to-process-gp-clinical-correspondence/
+  cat: med
+  status: near
+  date: 2020-12-22
+- title: "Map the immune system"
+  url: https://www.outsourcing-pharma.com/Article/2020/12/21/Collaboration-to-chart-AI-generated-map-of-the-immune-system
+  cat: sci
+  status: near
+  date: 2020-12-21
+- title: "Dub video content into foreign languages"
+  url: https://www.theguardian.com/business/2020/dec/10/say-that-again-uk-speech-dubbing-pioneer-secures-new-funding
+  cat: spe
+  status: does
+  date: 2020-12-10
+- title: "Design a space suit"
+  url: https://readwrite.com/2020/12/28/artificial-intelligence-helps-nasa-design-new-moon-bound-space-suit/
+  cat: ind
+  status: near
+  date: 2020-12-28
+- title: "Mimic the human retina"
+  url: https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/
+  cat: vis
+  status: near
+  date: 2020-12-10
+- title: "Ask Putin a question"
+  url: https://tass.com/society/1241003
+  cat: oth
+  status: does
+  date: 2020-12-29
+- title: "Train medical students"
+  url: https://www.med-technews.com/news/artificial-intelligence-in-healthcare/ai-powered-virtual-patient-allows-remote-medical-training/
+  cat: edu
+  status: near
+  date: 2020-12-09
