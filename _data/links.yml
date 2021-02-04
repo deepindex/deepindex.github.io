@@ -233,7 +233,7 @@
   cat: cre
   status: does
   date: 2017-12-13
-- title: "Draw an image based on a description"
+- title: "Create an image from a description"
   url: https://thenextweb.com/artificial-intelligence/2018/01/19/microsofts-ai-is-a-robo-van-gogh-that-could-change-how-designers-work/
   cat: cre
   status: does
@@ -5107,3 +5107,73 @@
   cat: edu
   status: near
   date: 2020-12-09
+- title: "Diagnose prostate cancer from urine"
+  url: https://phys.org/news/2021-01-cancer-precisely-urine-artificial-intelligence.html
+  cat: med
+  status: does
+  date: 2021-01-21
+- title: "Scout for footballers"
+  url: https://mobilemarketingmagazine.com/burnley-fc-aiscout-premier-league-football-talent-search
+  cat: pro
+  status: does
+  date: 2021-01-12
+- title: "Reduce crowds at metro stations"
+  url: https://www.intelligenttransport.com/transport-news/113307/dubai-metro-ai/
+  cat: tra
+  status: near
+  date: 2021-01-04
+- title: "Prioritise Covid-19 vaccinations"
+  url: https://www.dmu.ac.uk/about-dmu/news/2021/january/researchers-argue-that-artificial-intelligence-can-help-decide-who-gets-a-covid-19-vaccine-first.aspx
+  cat: gov
+  status: near
+  date: 2021-01-12
+- title: "Improve hearing aids"
+  url: https://www.healthyhearing.com/report/53168-Hearing-aids-artificial-intelligence-deep-learning-oticon
+  cat: spe
+  status: does
+  date: 2021-01-25
+- title: "Respond to human feelings"
+  url: https://www.unilad.co.uk/technology/kodas-robot-dog-uses-ai-to-sense-human-emotion/
+  cat: rob
+  status: near
+  date: 2021-01-26
+- title: "Draw pictures to go with captions"
+  url: https://www.newscientist.com/article/2264022-ai-illustrator-draws-imaginative-pictures-to-go-with-text-captions/
+  cat: cre
+  status: does
+  date: 2021-01-05
+- title: "Detect microscopic surface flaws"
+  url: https://www.businesswire.com/news/home/20210119006066/en/Nanotronics-Unveils-nTelligence-Its-Fourth-Generation-of-Artificial-Intelligence-Software
+  cat: ind
+  status: does
+  date: 2021-01-19
+- title: "Identify and sort plastic packaging"
+  url: https://www.packagingnews.co.uk/news/materials/flexible-plastics/unilever-alibaba-launch-recycling-machines-featuring-artificial-intelligence-04-01-2021
+  cat: ind
+  status: does
+  date: 2021-01-04
+- title: "Sort and pick recyclables"
+  url: https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling
+  cat: rob
+  status: does
+  date: 2021-01-04
+- title: "Train your dog to sit"
+  url: https://www.newscientist.com/article/2264612-artificial-intelligence-could-train-your-dog-how-to-sit/
+  cat: oth
+  status: near
+  date: 2021-01-13
+- title: "Predict human egg fertilisation"
+  url: https://www.forbes.com/sites/alicebroster/2021/01/11/could-artificial-intelligence-be-the-future-of-fertility-treatment/
+  cat: sci
+  status: does
+  date: 2021-01-11
+- title: "Improve pre-hospital manual ventilation"
+  url: https://www.healtheuropa.eu/eolife-assisting-ventilation-when-every-second-counts/104894/
+  cat: med
+  status: near
+  date: 2021-01-13
+- title: "Digitise sporting events"
+  url: https://www.insidethegames.biz/articles/1102584/alibaba-cloud-ai-sport-solutions
+  cat: oth
+  status: does
+  date: 2021-01-02
